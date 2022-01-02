@@ -10,6 +10,16 @@ Bou 'n papier weergawe van die Prandtl vliegtuig met 1.5 meter vlerkspan.  Dit i
 
 Gebruik die model om op 'n goedkoop wyse meer ervaring op te bou met die Prantl konfigurasie.  Ontwikkel ook FreeCAD metodes vir die modellering van die vliegtuig.
 
+## Massa
+
+Die papier materiaal van die vliegtuig weeg 129 gram.
+
+Dit gee 'n afgeskatte gelykvlug spoed van minder as 10km/h teen 3 grade invalshoek.
+
+## Tekeninge
+
+Die vliegtuig is modelleer in FreeCAD weergawe 0.19 en met die hand oorgeteken op 'n karton papiervel wat 1mm dik is.  Die komponente is uitgesny met 'n skerp mes en met 'n deurskynende papier gom aanmekaar gegom.
+
 
 
 ## Neutrale punt berekening
