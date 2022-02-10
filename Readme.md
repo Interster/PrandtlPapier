@@ -46,7 +46,9 @@ Die Reynoldsgetal word afgeskat om laer as 25000 te wees.  Dus is 'n plat plat g
 
 Die vliegtuig is modelleer in FreeCAD weergawe 0.19 en met die hand oorgeteken op 'n karton papiervel wat 1mm dik is.  Die komponente is uitgesny met 'n skerp mes en met 'n deurskynende papier gom aanmekaar gegom.
 
+## Koste
 
+Die materiaalkoste van die vliegtuig was 'n root A0 karton teen R81.20.
 
 ## Neutrale punt berekening
 
